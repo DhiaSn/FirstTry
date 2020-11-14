@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstTry</string>
+    <string name="search">Search</string>
+    <string name="search_gooogle_or_type_url">Search Gooogle or type URL</string>
+    <string name="i_am_feeling_lucky">I am Feeling Lucky</string>
+    <string name="google_search">Google Search</string>
+</resources>
